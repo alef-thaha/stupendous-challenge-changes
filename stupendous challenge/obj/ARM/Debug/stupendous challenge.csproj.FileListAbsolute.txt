@@ -1,0 +1,65 @@
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\App.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\Coffeepage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\completepage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\donutpage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\MainPage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\shedulepage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\stupendous challenge.xr.xml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\stupendous challenge.exe
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\stupendous challenge.pdb
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\resources.pri
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\AppxManifest.xml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\Core\stupendous challenge.exe
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\stupendous challenge.build.appxrecipe
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\System.Runtime.dll
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\bin\ARM\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\stupendous challenge.csprojAssemblyReference.cache
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\App.g.i.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\App.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\Coffeepage.g.i.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\Coffeepage.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\completepage.g.i.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\completepage.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\donutpage.g.i.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\donutpage.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\MainPage.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\shedulepage.g.i.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\shedulepage.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\App.xaml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\completepage.xaml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\donutpage.xaml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\shedulepage.xaml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\Coffeepage.xaml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\MainPage.xaml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\App.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\completepage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\donutpage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\shedulepage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\Coffeepage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\MainPage.xbf
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\stupendous challenge.csproj.CoreCompileInputs.cache
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\stupendous challenge.csproj.CopyComplete
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\stupendous challenge.exe
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\stupendous challenge.pdb
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\priconfig.xml
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\unfiltered.layout.resfiles
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\filtered.layout.resfiles
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\filtered.layout.resfiles.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\excluded.layout.resfiles
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\excluded.layout.resfiles.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\resources.resfiles
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\pri.resfiles
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\qualifiers.txt
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\alef-pt4023\source\repos\stupendous challenge\stupendous challenge\obj\ARM\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424617200000000.json
